@@ -12,10 +12,10 @@ Requirements for the software and other tools to build, test and push
 - [Python]([https://www.example.com](https://www.python.org/downloads/))
 
 ### See our databases 
-Referencia carpeta databases [DataBases](path%20with%20spaces/other_file.md](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/datasets)
+Referencia carpeta [DataBases](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/datasets)
 
 ### See our graphics results
-Referencia carpeta plots     [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/plots)
+Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/plots)
 
 ## Authors
 
