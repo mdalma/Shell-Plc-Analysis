@@ -1,5 +1,5 @@
 # Shell-Plc-Analysis
-![Shell Logo](Shell.png)
+
 Europe interests or UK interests.
 
 In this project we will analyse Shell PLC and what might have been the cause of its move from the Netherlands to the UK. In order to see the possible causes we will look into its finances, political and legal reasons.
@@ -14,10 +14,11 @@ Requirements for the software and other tools to build, test and push
 
 ### See our databases 
 Referencia carpeta [DataBases](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/datasets)
+![Shell Logo](Shell.png)
 
 ### See our graphics results
 Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/plots)
-
+![Plot](/plots/Net Income Competidors.jpeg)
 ## Authors
 
   - **Miquel Monge Dalmau** --> [Miquel](https://github.com/mdalma)
