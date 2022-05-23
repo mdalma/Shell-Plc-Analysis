@@ -24,5 +24,3 @@ Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/mai
   - **Mateo Sesma Urbano**
   - **Thijs Rood**
   - **Mateu Serra**  --> [Mateu](https://github.com/MatttSF)
-  - 
-![Shell Logo](Shell.png)
