@@ -7,10 +7,10 @@ In this project we will analyse Shell PLC and what might have been the cause of 
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [pyspark]([https://www.example.com](https://spark.apache.org/docs/latest/api/python/))
+- [Pyspark]([https://www.example.com](https://spark.apache.org/docs/latest/api/python/))
 - Databases (own research)
-- [python]([https://www.example.com](https://www.python.org/downloads/))
-- 
+- [Python]([https://www.example.com](https://www.python.org/downloads/))
+
 ### See our databases 
 Referencia carpeta databases
 
