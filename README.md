@@ -1,9 +1,10 @@
 # Shell-Plc-Analysis
+![Shell Logo](Shell.png)
 Europe interests or UK interests.
 
 In this project we will analyse Shell PLC and what might have been the cause of its move from the Netherlands to the UK. In order to see the possible causes we will look into its finances, political and legal reasons.
 
-![Shell Logo](Shell.png)
+![Shell Logo](Shell2.jpg)
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
