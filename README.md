@@ -20,7 +20,7 @@ Referencia carpeta [DataBases](https://github.com/mdalma/Shell-Plc-Analysis/tree
 ### See our graphics results
 Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/plots)
 
-![Plot](./plots/Net income Competidors.jpeg)
+![Plot]([./plots/Net income Competidors.jpeg](https://github.com/mdalma/Shell-Plc-Analysis/blob/main/plots/Net%20income%20Competidors.jpeg))
 
 ## Authors
 
