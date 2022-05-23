@@ -14,11 +14,14 @@ Requirements for the software and other tools to build, test and push
 
 ### See our databases 
 Referencia carpeta [DataBases](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/datasets)
+
 ![Shell Logo](Shell.png)
 
 ### See our graphics results
 Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/plots)
-![Plot](/plots/Net Income Competidors.jpeg)
+
+![Plot](/plots/Net income Competidors.jpeg)
+
 ## Authors
 
   - **Miquel Monge Dalmau** --> [Miquel](https://github.com/mdalma)
