@@ -15,12 +15,8 @@ Requirements for the software and other tools to build, test and push
 ### See our databases 
 Referencia carpeta [DataBases](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/datasets)
 
-![Shell Logo](Shell.png)
-
 ### See our graphics results
 Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/main/plots)
-
-![plot](./plots/Net income Competidors.jpeg)
 
 ## Authors
 
@@ -28,3 +24,5 @@ Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/mai
   - **Mateo Sesma Urbano**
   - **Thijs Rood**
   - **Mateu Serra**  --> [Mateu](https://github.com/MatttSF)
+  - 
+![Shell Logo](Shell.png)
