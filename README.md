@@ -19,11 +19,9 @@ Referencia carpeta [Plots](https://github.com/mdalma/Shell-Plc-Analysis/tree/mai
 
 ## Authors
 
-  - **Miquel Monge Dalmau** 
-    [Miquel](https://github.com/PurpleBooth](https://github.com/mdalma)
+  - **Miquel Monge Dalmau** --> [Miquel](https://github.com/mdalma)
   - **b** 
     [jony](https://github.com/PurpleBooth)
   - **c** 
     [jony](https://github.com/PurpleBooth)
-  - **Mateu Serra** 
-    [Mateu](https://github.com/MatttSF)
+  - **Mateu Serra**  --> [Mateu](https://github.com/MatttSF)
